@@ -1,2 +1,2 @@
 # Snake-like-Game-OOP-
-# Snake-like Game using C++
+Snake-like Game using C++
